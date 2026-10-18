@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/finance-header-mobile.svg">
-  <img src="assets/finance-header.svg" width="100%" alt="The Art of Analysis — Financial Markets · Risk &amp; Compliance · Data Analytics">
+  <source media="(max-width: 600px)" srcset="assets/finance-header-mobile.png">
+  <img src="assets/finance-header.png" width="100%" alt="Polina Marunyak — Financial Data. Markets · Risk · Surveillance. Detailed digital globe with international network connections.">
 </picture>
 
 ## Polina Marunyak
