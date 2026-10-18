@@ -1,27 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
-<title id="title">Polina Marunyak</title>
-<desc id="desc">Financial markets, risk and compliance, data analytics. Midnight editorial composition with architectural lines and a small abstract stripe motif. All graphics are decorative, not market data.</desc>
-<defs>
-  <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#8295AD" stroke-opacity=".12"/></pattern>
-  <clipPath id="texture"><path d="M1020 0H1200V170H1100Z"/></clipPath>
-</defs>
-<rect width="1200" height="440" fill="#151A22"/>
-<rect x="650" y="0" width="550" height="440" fill="url(#grid)"/>
-<g clip-path="url(#texture)" fill="none" stroke="#8295AD" stroke-opacity=".10" stroke-width="13">
-<path d="M1000 -20Q1140 30 1060 160T1190 240 M1040 -40Q1190 30 1100 150T1240 220 M1090 -40Q1240 30 1140 140T1290 220 M1140 -40Q1290 30 1180 150"/>
-</g>
-<g fill="none" stroke="#8295AD" stroke-opacity=".22">
-<path d="M830 355V203L898 166V355 M898 166L938 192V355 M962 355V124L1030 82V355 M1030 82L1072 112V355 M1092 355V228L1158 192V355"/>
-<path d="M846 235H884 M846 258H884 M846 281H884 M978 164H1014 M978 188H1014 M978 212H1014 M978 236H1014 M978 260H1014"/>
-</g>
-<path d="M48 50H88" stroke="#772E49" stroke-width="5"/>
-<text x="104" y="55" fill="#8295AD" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="3">AN ANALYTICAL PERSPECTIVE</text>
-<text x="44" y="173" fill="#FFFFFF" font-family="Georgia, 'Times New Roman', serif" font-size="96" letter-spacing="2">POLINA</text>
-<text x="112" y="277" fill="#FFFFFF" font-family="Georgia, 'Times New Roman', serif" font-size="96" letter-spacing="2">MARUNYAK</text>
-<path d="M48 310H745" stroke="#8295AD" stroke-opacity=".35"/>
-<rect x="48" y="310" width="88" height="3" fill="#772E49"/>
-<text x="48" y="352" fill="#8295AD" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1.5">FINANCIAL MARKETS / RISK &amp; COMPLIANCE / DATA ANALYTICS</text>
-<text x="48" y="404" fill="#8295AD" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="2">PRECISION IN CONTEXT.</text>
-<path d="M790 390H1150" stroke="#8295AD" stroke-opacity=".35"/>
-<circle cx="1092" cy="390" r="5" fill="#772E49"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">The Art of Analysis</title>
+  <desc id="desc">Financial Markets · Risk and Compliance · Data Analytics. A slim editorial masthead with a small abstract zebra-stripe signature at the right edge.</desc>
+  <defs>
+    <clipPath id="signature"><path d="M1048 0H1200V240H1108C1132 176 1026 87 1048 0Z"/></clipPath>
+  </defs>
+  <rect width="1200" height="240" fill="#151A22"/>
+  <g clip-path="url(#signature)" fill="#8295AD" opacity=".55">
+    <path d="M1044 -14C1084 29 1064 60 1113 94C1142 115 1146 167 1214 188L1214 166C1171 144 1178 105 1137 75C1101 49 1098 17 1084 -14Z"/>
+    <path d="M1103 -14C1108 39 1149 39 1155 80C1163 116 1196 136 1214 141L1214 120C1178 100 1185 75 1165 49C1143 25 1140 8 1145 -14Z"/>
+    <path d="M1169 -14C1154 20 1178 46 1214 68L1214 47C1192 23 1201 3 1214 -14Z"/>
+    <path d="M1032 62C1040 102 1088 120 1086 158C1083 193 1126 226 1181 254L1214 254C1158 215 1126 189 1121 159C1112 121 1067 103 1061 62Z"/>
+    <path d="M1059 179C1051 206 1075 235 1101 254H1133C1100 223 1092 205 1095 189Z"/>
+  </g>
+  <path d="M1045 4C1033 62 1066 100 1090 127C1112 156 1126 196 1108 240" fill="none" stroke="#772E49" stroke-width="13"/>
+  <text x="48" y="44" fill="#8295AD" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="3">POLINA MARUNYAK</text>
+  <text x="45" y="119" fill="#FFFFFF" font-family="Georgia, 'Times New Roman', serif" font-size="57">The Art of <tspan font-style="italic">Analysis</tspan></text>
+  <path d="M48 148H982" stroke="#8295AD" stroke-opacity=".4"/>
+  <path d="M48 148H112" stroke="#772E49" stroke-width="3"/>
+  <text x="48" y="188" fill="#8295AD" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing=".5">Financial Markets · Risk &amp; Compliance · Data Analytics</text>
 </svg>

@@ -1,37 +1,33 @@
-<img src="assets/finance-header.svg" width="100%" alt="Polina Marunyak — Financial Markets / Risk &amp; Compliance / Data Analytics" />
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/finance-header-mobile.svg">
+  <img src="assets/finance-header.svg" width="100%" alt="The Art of Analysis — Financial Markets · Risk &amp; Compliance · Data Analytics">
+</picture>
 
-# Polina Marunyak
+## Polina Marunyak
 
-**MSc International Finance · Regulatory compliance · Financial data analytics**
+**MSc International Finance student** with experience in compliance, controls and financial market infrastructure, including **Clearstream (Deutsche Börse Group)**.
 
-Experience in regulatory compliance, controls and financial market infrastructure, including **Clearstream (Deutsche Börse Group)**. Developing Python analysis and visualization skills, with a focus on financial markets, risk and market surveillance.
+Developing Python analysis and visualization skills, with an interest in financial markets, market surveillance, risk and regulatory compliance.
 
-## Selected project
+### Featured research
 
-### Market Activity Anomaly Monitor
+<sup>MARKET ACTIVITY ANOMALY MONITOR &nbsp; / &nbsp; IN FINALIZATION</sup>
 
-<sup>IN FINALIZATION · PYTHON / FINANCIAL MARKETS</sup>
+Examining historical price movements and trading volumes for **LVMH, Airbus and BNP Paribas**, highlighting unusual sessions using defined statistical criteria.
 
-Analyzing historical price movements and trading volumes for **LVMH, Airbus and BNP Paribas** to identify unusual trading sessions using defined statistical criteria.
+**Python · pandas · NumPy · Matplotlib · Seaborn**
 
-<img src="assets/market-monitor-concept.svg" width="100%" alt="Concept preview, not analysis results: historical prices and volume feed statistical screening, followed by review of flagged sessions. Real charts will be added when the project is finalized." />
+> **Notebook figures forthcoming**<br>
+> Reserved for real price, volume and rolling-volume plots with anomaly observations highlighted.
 
-**Toolkit** &nbsp; Python · pandas · NumPy · Matplotlib · Seaborn<br>
-*Project outputs and a repository link will follow when published.*
-
----
-
-### Focus
-
-Financial Markets & Market Infrastructure · Market Surveillance<br>
-Risk & Regulatory Compliance · Financial Data Analytics
+<!-- Replace the quotation above with real notebook exports once available. Add the repository link only after publication. -->
 
 ### Technical toolkit
 
-**Used in work or personal projects** · Python, pandas, NumPy, Matplotlib, Seaborn, Excel. Continuing to build depth in analysis and visualization.
+**Applied in work or personal projects** · Python, pandas, NumPy, Matplotlib, Seaborn and Excel. Continuing to build analytical depth.
 
 **Learning** · Power BI, Git & GitHub. **Notebook environment** · Google Colab.
 
 ---
 
-[LinkedIn ↗](https://www.linkedin.com/in/polina-mariya-marunyak) &nbsp; / &nbsp; [pmarunyak@gmail.com](mailto:pmarunyak@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/polina-mariya-marunyak) &nbsp; · &nbsp; [pmarunyak@gmail.com](mailto:pmarunyak@gmail.com)
