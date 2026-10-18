@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Market Activity Anomaly Monitor — concept preview</title>
+<desc id="desc">Concept only, not analysis results. Historical prices and volume lead to statistical screening and review of flagged sessions. Chart outputs are pending.</desc>
+<rect width="1200" height="300" fill="#151A22"/>
+<path d="M40 44H76" stroke="#772E49" stroke-width="4"/>
+<text x="90" y="49" fill="#8295AD" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2">RESEARCH WORKFLOW</text>
+<text x="1156" y="49" text-anchor="end" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1">CONCEPT ONLY · NOT RESULTS</text>
+<path d="M56 125H1144" stroke="#8295AD" stroke-opacity=".4"/>
+<g fill="#151A22" stroke="#8295AD" stroke-width="2"><circle cx="56" cy="125" r="6"/><circle cx="452" cy="125" r="6"/></g>
+<circle cx="848" cy="125" r="7" fill="#772E49" stroke="#8295AD"/>
+<g fill="#FFFFFF" font-family="Georgia, 'Times New Roman', serif" font-size="28">
+<text x="48" y="182">Observe</text><text x="444" y="182">Screen</text><text x="840" y="182">Review</text>
+</g>
+<g fill="#8295AD" font-family="Arial, Helvetica, sans-serif" font-size="17">
+<text x="48" y="217">Historical prices &amp; volume</text><text x="444" y="217">Defined statistical criteria</text><text x="840" y="217">Unusual trading sessions</text>
+</g>
+<text x="48" y="273" fill="#8295AD" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1">LVMH / AIRBUS / BNP PARIBAS</text>
+<text x="1156" y="273" text-anchor="end" fill="#8295AD" font-family="Arial, Helvetica, sans-serif" font-size="12">Chart outputs pending finalization</text>
+</svg>
